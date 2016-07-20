@@ -1,0 +1,5 @@
+{
+	"project_name": "Simple Java App",
+	"app_name": "simpleapp",
+	"_copy_without_render": [".gradle", "gradle/", "*gradlew", "*gradlew.bat"]
+}
