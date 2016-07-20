@@ -7,14 +7,16 @@ cookiecutter-java
     :target: https://travis-ci.org/m-x-k/cookiecutter-java
     :alt: Build Status
 
-## Requires
+Requires
+--------
 
 * Python
 * Cookiecutter `brew install cookiecutter` or `pip install cookiecutter`
 * JDK 7+
 
-## Use cookiecutter-java
+Use cookiecutter-java
+---------------------
 
-```
+``
 cookiecutter https://github.com/m-x-k/cookiecutter-java
-```
+``
