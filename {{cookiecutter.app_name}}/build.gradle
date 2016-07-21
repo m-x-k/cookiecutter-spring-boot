@@ -19,7 +19,6 @@ repositories {
 
 jar {
     baseName = projectBaseName
-    version = versionLib
 }
 
 sourceCompatibility = 1.8
