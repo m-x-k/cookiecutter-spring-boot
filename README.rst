@@ -1,10 +1,10 @@
-cookiecutter-java
-=================
+cookiecutter-spring-boot
+========================
 
 .. _cookiecutter: https://github.com/audreyr/cookiecutter
 
-.. image:: https://travis-ci.org/m-x-k/cookiecutter-java.svg
-    :target: https://travis-ci.org/m-x-k/cookiecutter-java
+.. image:: https://travis-ci.org/m-x-k/cookiecutter-spring-boot.svg
+    :target: https://travis-ci.org/m-x-k/cookiecutter-spring-boot
     :alt: Build Status
 
 Requires
@@ -14,9 +14,9 @@ Requires
 * Cookiecutter `brew install cookiecutter` or `pip install cookiecutter`
 * JDK 7+
 
-Use cookiecutter-java
----------------------
+Use cookiecutter-spring-boot
+----------------------------
 
 ``
-cookiecutter https://github.com/m-x-k/cookiecutter-java
+cookiecutter https://github.com/m-x-k/cookiecutter-spring-boot
 ``
