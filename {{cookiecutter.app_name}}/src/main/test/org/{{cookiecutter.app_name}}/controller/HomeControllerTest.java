@@ -1,4 +1,4 @@
-package org.simpleapp.controller;
+package org.{{cookiecutter.app_name}}.controller;
 
 import org.junit.Test;
 
