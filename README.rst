@@ -17,6 +17,4 @@ Requires
 Use cookiecutter-spring-boot
 ----------------------------
 
-``
 cookiecutter https://github.com/m-x-k/cookiecutter-spring-boot
-``
