@@ -12,7 +12,7 @@ Requires
 
 * Python
 * Cookiecutter `brew install cookiecutter` or `pip install cookiecutter`
-* JDK 7+
+* JDK 11+
 
 Use cookiecutter-spring-boot
 ----------------------------
